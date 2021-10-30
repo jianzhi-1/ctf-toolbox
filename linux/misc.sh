@@ -28,8 +28,7 @@ rm <filename>
 rmdir <dirname>
 
 # remove directory, recursive and force
-rmdir -r <dirname>
-rmdir -rf <dirname>
+rm -r <dirname>
 
 # rename
 mv <old_file_name> <new_file_name>
